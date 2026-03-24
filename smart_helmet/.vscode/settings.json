@@ -1,0 +1,20 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "mq2.h": "c",
+    "inv_mpu_dmp_motion_driver.h": "c",
+    "mpu6050.h": "c",
+    "max30102_app.h": "c",
+    "algorithm.h": "c",
+    "bsp_system.h": "c",
+    "stm32f1xx_it.h": "c",
+    "sensor.h": "c",
+    "esp01s.h": "c",
+    "stdio.h": "c",
+    "scheduler.h": "c",
+    "stdbool.h": "c",
+    "i2c.h": "c",
+    "myiic.h": "c"
+  },
+  "Codegeex.RepoIndex": true
+}

@@ -1,0 +1,4 @@
+{
+    "device_id": "68ac150094a9a05c33830954_smart_helmet",
+    "secret": "4407c994cce22523ab5ad3d3804fa6c5"
+}

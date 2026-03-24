@@ -1,0 +1,8 @@
+{
+    "username": "68ac150094a9a05c33830954_smart_helmet",
+    "password": "90a583e3866012f747a92ac7fca9ab320bbb83fac271b45297fdecc8814abb5a",
+    "clientId": "68ac150094a9a05c33830954_smart_helmet_0_0_2025082508",
+    "hostname": "52e4e17470.st1.iotda-device.cn-east-3.myhuaweicloud.com",
+    "port": 8883,
+    "protocol": "MQTTS"
+}
